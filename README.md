@@ -1,4 +1,4 @@
-# WordPress-Emoji-Might
+# WordPress Emoji 💪
 WordPress 4.2+ plugin for delivering alternative Emoji sets
 
 Done:
